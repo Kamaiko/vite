@@ -73,7 +73,7 @@
   },
   "//": "READ CONTRIBUTING.md to understand what to put under deps vs. devDeps!",
   "dependencies": {
-    "@oxc-project/runtime": "0.103.0",
+    "@oxc-project/runtime": "0.106.0",
     "fdir": "^6.5.0",
     "lightningcss": "^1.30.2",
     "picomatch": "^4.0.3",
